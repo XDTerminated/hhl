@@ -1,0 +1,9 @@
+[project]
+name = "hhl"
+version = "0.1.0"
+description = "Prof. Li unstable-shear test cases exported as HHL linear systems"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.4",
+    "scipy>=1.18.1",
+]
